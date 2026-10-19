@@ -1,0 +1,6 @@
+    inet [1;35m127.0.0.1[0m/8 scope host lo
+    inet6 [1;94m::1[0m/128 scope host noprefixroute 
+    inet [1;35m192.168.1.157[0m/24 brd [1;35m192.168.1.255 [0mscope global dynamic noprefixroute wlo1
+    inet6 [1;94m2a0c:5a82:bd08:d00:2cce:d262:1207:4cee[0m/64 scope global temporary dynamic 
+    inet6 [1;94m2a0c:5a82:bd08:d00:637f:1040:6726:dbe[0m/64 scope global mngtmpaddr noprefixroute 
+    inet6 [1;94mfe80::1d58:9cef:f2fe:a480[0m/64 scope link noprefixroute 
